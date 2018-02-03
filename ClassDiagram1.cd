@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Calendar" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAAAAAAAAAEAAAAAIAAAAAAEAAAEAAAAQAA=</HashCode>
+      <FileName>Calendar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAQAAAAAIAAAAAAAQAgEAQAQBAAAAAAAACAE=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Day" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAMCAIAAACgBAEAAAAAAAAACAAAAAAAAEAAAACAI=</HashCode>
+      <FileName>Day.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Event" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEBAgQAAAEAAAAQAEAgAAIAAAAAIgAIAAEIA=</HashCode>
+      <FileName>Event.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventHelper" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAEiAIRAgAABIAIAgIAABAAEIQAAEABAAAAAAAAI=</HashCode>
+      <FileName>EventHelper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileHelper" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAAAAAAQAAAAAAACAAAQAhAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LongTermEvent" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAEAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LongTermEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Month" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAABAAAAEAAACQAACCAAABEQAAEAIAAACI=</HashCode>
+      <FileName>Month.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PeriodicEvent" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAI=</HashCode>
+      <FileName>PeriodicEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAACAAg=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Week" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAAA=</HashCode>
+      <FileName>Week.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Year" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAABAAAAAAAAAAAAAAAAAgBAAAEACAEAAAAAAA=</HashCode>
+      <FileName>Year.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
